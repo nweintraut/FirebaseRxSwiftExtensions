@@ -5,7 +5,7 @@ PODS:
     - RxSwift (~> 1.8.1)
   - Nimble (1.0.0)
   - Quick (0.3.1)
-  - RxSwift (1.8.1)
+  - RxSwift (2.0)
 
 DEPENDENCIES:
   - FirebaseRxSwiftExtensions (from `../`)
