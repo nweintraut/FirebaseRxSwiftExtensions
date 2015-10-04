@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.frameworks = ['CFNetwork', 'Security', 'Firebase', 'SystemConfiguration']
   s.libraries = ['icucore', 'c++']
   s.dependency 'Firebase', '~> 2.3.3'
-  s.dependency 'RxSwift', '~> 1.8.1'
+  s.dependency 'RxSwift', '~> 2.0'
   s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '"${PODS_ROOT}/Firebase"' }
 end
